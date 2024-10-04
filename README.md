@@ -1,10 +1,11 @@
 <img  alt="coding" height="500px" width="100%" src="https://github.com/PrajwalJ1092/PrajwalJ1092/blob/main/Black%20And%20Green%20Lined%20Style%20Coming%20Soon%20Instagram%20Post%20(5).gif">
-
+<P>💫 **About Me**:<br></P>
+<hr>
 <h1 align="center">Hi 👋, I'm Prajwal Jainkeri</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalj1092&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalj1092" /> </p>
 
-💫 **About Me**:<br>
+
 🌱 I’m a Full Stack Developer <br><br>👨‍💻 All of my projects are available at <a href="https://github.com/PrajwalJ1092">Prajwal Jainkeri</a><br><br>📫 How to reach me: prajwaljainkeri2001@gmail.com<br><br>⚡ Fun fact: I speak three languages: English, Code, and Emoji 😉<br><br>
 
 ## 🌐 Socials:
