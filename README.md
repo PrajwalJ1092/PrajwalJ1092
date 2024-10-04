@@ -5,7 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalj1092&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalj1092" /> </p>
 
-🌱 I’m a Full Stack Developer <br><br>👨‍💻 All of my projects are available at <a href="https://github.com/PrajwalJ1092">Prajwal Jainkeri</a><br><br>📫 How to reach me: prajwaljainkeri2001@gmail.com<br><br>⚡ Fun fact: I speak three languages: English, Code, and Emoji 😉<br><br>
+👋 Hi, I’m Prajwal Jainkeri, a passionate Full Stack Developer with a focus on building scalable, user-centric applications. I specialize in JavaScript, ReactJS, and cloud-based solutions, and continuously work on enhancing my skills in modern web technologies.
+
+🌱 Currently expanding my expertise in MERN Stack and Cloud.
+
+📫 Feel free to reach out: prajwaljainkeri2001@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-jainkeri-492434228/) 
