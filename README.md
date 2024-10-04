@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajwal Jainkeri</h1>
-<img align="right" top="150" alt="coding" width="400" src="https://www.canva.com/design/DAGSmQje8Zo/OBC6sW1LpAftfPZFTuPs7w/watch?utm_content=DAGSmQje8Zo&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel">
+<img align="right" top="150" alt="coding" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalj1092&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalj1092" /> </p>
 
 💫 **About Me**:<br>
