@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajwal Jainkeri</h1>
-<img align="right" top="150" alt="coding" width="400" src="https://www.canva.com/design/DAGSmQje8Zo/OBC6sW1LpAftfPZFTuPs7w/watch?utm_content=DAGSmQje8Zo&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhaaakri&label=Profile%20views&color=0e75b6&style=flat" alt="jhaaakri" /> </p>
 💫 About Me:<br>
 🌱 I’m Full Stack Developer <br><br>👨‍💻 All of my projects are available at <a href="https://github.com/PrajwalJ1092">Prajwal Jainkeri </a><br><br>📫 How to reach me prajwaljainkeri2001@gmail.com<br><br>⚡ Fun fact : I speak three languages: English, Code, and Emoji😉
