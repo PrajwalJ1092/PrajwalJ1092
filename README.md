@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajwal Jainkeri</h1>
 
-<!-- Canva Design Link -->
-<p align="center">
-  <a href="https://www.canva.com/design/DAGSmQje8Zo/j8RBxBiE9uoqFJgV7Tl4mw/watch" target="_blank">Watch My Design on Canva</a>
-</p>
-
-<!-- GIF aligned to the right -->
+<!-- GIF displayed at the top -->
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <!-- Profile views -->
