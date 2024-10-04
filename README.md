@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prajwal Jainkeri</h1>
+<p align="center">
+  <a href="https://www.canva.com/design/DAGSmQje8Zo/j8RBxBiE9uoqFJgV7Tl4mw/watch" target="_blank">Watch My Design on Canva</a>
+</p>
 <img align="right" top="150" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGSmQje8Zo&#x2F;j8RBxBiE9uoqFJgV7Tl4mw&#x2F;watch?utm_content=DAGSmQje8Zo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black And Green Lined Style Coming Soon Instagram Post</a> by Prajwal Jainkeri
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhaaakri&label=Profile%20views&color=0e75b6&style=flat" alt="jhaaakri" /> </p>
 💫 About Me:<br>
-🌱 I’m Full Stack Developer <br><br>👨‍💻 All of my projects are available at <a href="https://github.com/PrajwalJ1092">Prajwal Jainkeri </a><br><br>📫 How to reach me prajwaljainkeri2001@gmail.com<br><br>⚡ Fun fact : I speak three languages: English, Code, and Emoji😉
+🌱 I’m Full Stack Developer <br><br>👨‍💻 All of my projects are available at <a href="https://github.com/PrajwalJ1092">Prajwal Jainkeri</a><br><br>📫 How to reach me prajwaljainkeri2001@gmail.com<br><br>⚡ Fun fact : I speak three languages: English, Code, and Emoji😉
 
 
 ## 🌐 Socials:
