@@ -1,5 +1,5 @@
 <img  alt="coding" height="500px" width="100%" src="https://github.com/PrajwalJ1092/PrajwalJ1092/blob/main/Black%20And%20Green%20Lined%20Style%20Coming%20Soon%20Instagram%20Post%20(5).gif">
-<P>💫 **About Me**:<br></P>
+<h1>💫 **About Me**:<br></h1>
 <hr>
 <h1 align="center">Hi 👋, I'm Prajwal Jainkeri</h1>
 
