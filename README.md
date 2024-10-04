@@ -1,5 +1,7 @@
+<img  alt="coding" width="100%" src="https://github.com/PrajwalJ1092/PrajwalJ1092/blob/main/Black%20And%20Green%20Lined%20Style%20Coming%20Soon%20Instagram%20Post%20(2).gif">
+
 <h1 align="center">Hi 👋, I'm Prajwal Jainkeri</h1>
-<img align="right" top="150" alt="coding" width="400" src="https://github.com/PrajwalJ1092/PrajwalJ1092/blob/main/Black%20And%20Green%20Lined%20Style%20Coming%20Soon%20Instagram%20Post%20(2).gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalj1092&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalj1092" /> </p>
 
 💫 **About Me**:<br>
